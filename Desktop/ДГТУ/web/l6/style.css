@@ -1,3 +1,9 @@
-#spisok{
-list-style-image:url(marker.ico);
+#sp{
+ width:150px;
+}
+#spisok2{
+ list-style-position:outside;
+}
+#spisok1{
+ list-style:circle url(marker.ico) inside;
 }
